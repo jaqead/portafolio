@@ -15,6 +15,7 @@ mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 # Experiencia Académica
 
 **2021**, Coordinadora Seminario Virtual *Patrimonio Cultural y Memoria* (Diócesis de Latacunga – Radio Latacunga – Universidad Andina Simón Bolívar -Ecuador).
+
 ![seminario-virtual](/img/seminario-virtual.jpg)
 
 **2021**, Expositora invitada, *Archivo, memoria y patrimonio sonoro*. (Maestría de Museología y Patrimonio UASB-Ecuador). 
@@ -29,7 +30,8 @@ mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 **2020-2021**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga).
 
-Programa Especial:[Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)
+Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)
+
 ![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 
 **2018-2020**, Realizadora y capacitadora audiovisual en TV MICC (canal 47, Canal del Movimiento Indígena y Campesino de Cotopaxi, Latacunga - Ecuador).
@@ -50,12 +52,15 @@ Apoyo área de comunicación Hospital Borda – Argentina.
 Mini documental producido en apoyo al trabajo del colectivo Jóvenes de Latacunga.
 
 **Documental: [Hip Hop Cultura I](https://www.youtube.com/watch?v=wgg06x7Bv5M&t=7s)**
+
 ![img](/img/hip-hop.jpg)
 
 **2018-2019**, Fundadora, directora y productora, *HistoriSismos*, programa radial de los estudiantes de la Maestría de Investigación en Historia (UASB-Ecuador).
+
 ![img](/img/hernan-ibarra.jpg)
 
 # Colaboraciones
+
 ![img](/img/colaboraciones3.jpg)
 ![img](/img/colaboraciones.jpg)
 
