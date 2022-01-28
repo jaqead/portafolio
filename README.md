@@ -2,7 +2,7 @@
 
 Ecuatoriana, socióloga, historiadora, gestora cultural y comunicadora con experiencia en realización audiovisual, prensa radial y escrita.
 
-E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
+E-mail: [jaqelin_18@hotmail.com](jaqelin_18@hotmail.com)
 
 # Formación Académica
 
