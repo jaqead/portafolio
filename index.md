@@ -2,7 +2,7 @@
 
 Ecuatoriana, socióloga, historiadora, gestora cultural y comunicadora con experiencia en realización audiovisual, prensa radial y escrita.
 
-e-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
+E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 # Formación Académica
 
@@ -22,7 +22,7 @@ e-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 ![exposicion-radio-latacunga](/img/exposicion-radio-latacunga.jpg)
 
-# Gestión Cultural
+# Gestión cultural y producción audiovisual
 
 **2021**, Miembro del proyecto de lecto-cultura *BiblioMashca – Lata Ciudad Lectora*. Apoyo audiovisual (Latacunga).
 
@@ -40,8 +40,6 @@ e-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 ![img](/img/chugchilan.jpg)
 ![img](/img/isinlivi.jpg)
-
-# Otras producciones
 
 Apoyo área de comunicación Hospital Borda – Argentina.
 
