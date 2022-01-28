@@ -13,7 +13,7 @@ jaqelin_18@hotmail.com
 
 # Experiencia Académica
 
-## 2021
+### 2021
 
 Coordinadora Seminario Virtual *Patrimonio Cultural y Memoria* (Diócesis de Latacunga – Radio Latacunga – Universidad Andina Simón Bolívar -Ecuador).
 
@@ -25,13 +25,13 @@ Expositora invitada, *Archivo, memoria y patrimonio sonoro*. (Maestría de Museo
 
 # Gestión Cultural
 
-## 2021
+### 2021
 
 Miembro del proyecto de lecto-cultura *BiblioMashca – Lata Ciudad Lectora*. Apoyo audiovisual (Latacunga).
 
 ![img](/img/proyecto-lecto-cultura.jpg)
 
-## 2020-2021
+### 2020-2021
 
 Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga).
 
@@ -39,7 +39,7 @@ Productora y realizadora de programa radial: *Sonidos Rupestres. Música de Amé
 
 ![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 
-## 2018-2020
+### 2018-2020
 
 Realizadora y capacitadora audiovisual en TV MICC (canal 47, Canal del Movimiento Indígena y Campesino de Cotopaxi, Latacunga - Ecuador).
 
@@ -48,7 +48,7 @@ Documental: [Loma Grande, El Panecillo, Tierra de Migrantes](https://www.youtube
 ![img](/img/chugchilan.jpg)
 ![img](/img/isinlivi.jpg)
 
-## Otras producciones
+# Otras producciones
 
 Apoyo área de comunicación Hospital Borda – Argentina.
 
@@ -61,14 +61,14 @@ Mini documental producido en apoyo al trabajo del colectivo Jóvenes de Latacung
 Documental: [Hip Hop Cultura I](https://www.youtube.com/watch?v=wgg06x7Bv5M&t=7s)
 ![img](/img/hip-hop.jpg)
 
-## 2018
+### 2018
 
 Fundadora, directora y productora, *HistoriSismos*, programa radial de los estudiantes de la Maestría de Investigación en Historia (UASB-Ecuador).
 
 ![img](/img/hernan-ibarra.jpg)
 
 # Colaboraciones
-![img](/img/colaboraciones2.jpg)
+![img](/img/colaboraciones3.jpg)
 ![img](/img/colaboraciones.jpg)
 
 # Publicaciones
@@ -83,12 +83,12 @@ Aimacaña, Jacqueline; Cichini Iván, 2014. [“La construcción de sentido como
 
 # Consultorías, auxiliaturas y redacciones
 
-2017, Administradora de datos cualitativos. Entrevistas, desgravación, análisis (La Casona de los Jóvenes, Organización no Gubernamental. Santiago – Chile).
+**2017**, Administradora de datos cualitativos. Entrevistas, desgravación, análisis (La Casona de los Jóvenes, Organización no Gubernamental. Santiago – Chile).
 
-2014, Facilitadora, tallerista para consulta popular sobre la Ley de Aguas (Movimiento Indígena y Campesino de Cotopaxi. Ecuador).
+**2014**, Facilitadora, tallerista para consulta popular sobre la Ley de Aguas (Movimiento Indígena y Campesino de Cotopaxi. Ecuador).
 
-2013-2014, Redactora periodística, (Agencia de Noticias Redacción ANRED, Sección Internacional. Buenos Aires – Argentina).
+**2013-2014**, Redactora periodística, (Agencia de Noticias Redacción ANRED, Sección Internacional. Buenos Aires – Argentina).
 
-2011-2013, Consultora (Nueva Comunicación, Buenos Aires – Argentina).
+**2011-2013**, Consultora (Nueva Comunicación, Buenos Aires – Argentina).
 
-2010, Facilitadora (Proyecto emprendimientos rurales en FEPP Fondo Ecuatoriano Populorum Progressio Cotopaxi – Ecuador).
+**2010**, Facilitadora (Proyecto emprendimientos rurales en FEPP Fondo Ecuatoriano Populorum Progressio Cotopaxi – Ecuador).
