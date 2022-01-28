@@ -17,11 +17,11 @@ jaqelin_18@hotmail.com
 
 Coordinadora Seminario Virtual *Patrimonio Cultural y Memoria* (Diócesis de Latacunga – Radio Latacunga – Universidad Andina Simón Bolívar -Ecuador).
 
-![image-20220127200158550](img/seminario-virtual.jpg)
+![seminario-virtual](img/seminario-virtual.jpg)
 
 Expositora invitada, *Archivo, memoria y patrimonio sonoro*. (Maestría de Museología y Patrimonio UASB-Ecuador). 
 
-![image-20220127200919927](/img/exposicion-radio-latacunga.jpg)
+![exposicion-radio-latacunga](/img/exposicion-radio-latacunga.jpg)
 
 ## Gestión Cultural
 
