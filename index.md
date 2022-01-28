@@ -30,7 +30,7 @@ mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 **2020-2021**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga).
 
-Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)
+**Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)**
 
 ![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 
