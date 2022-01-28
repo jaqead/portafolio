@@ -8,9 +8,9 @@ E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 **2020**, Maestría en Historia (UASB-Ecuador).
 
-**2017**, Dirección de Montaje Audiovisual (ENERC-Argentina).
-
 **2018**, Licenciatura en Sociología (UBA-Argentina).
+
+**2017**, Dirección de Montaje Audiovisual (ENERC-Argentina).
 
 # Experiencia Académica
 
