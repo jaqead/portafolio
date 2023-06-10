@@ -1,8 +1,8 @@
 # Silvia Jacqueline Aimacaña Delgado
 
-Ecuatoriana, socióloga, historiadora, gestora cultural y comunicadora con experiencia en realización audiovisual, prensa radial y escrita.
+Ecuatoriana. Socióloga por la Universidad de Buenos Aires y Máster en Historia y Sociología por la Universidad Andina Simón Bolívar y FLACSO Ecuador. Investigadora y docente. Mis temas de interés son radio, movimientos sociales, neoliberalismo e historia social contemporánea de América Latina. Comunicadora social por afición. Produzco el programa Sonidos Rupestres emitido por Cultura FM 100.9, la Radio de la Casa de las Culturas del Ecuador (Quito).
 
-E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
+E-mail: [jaqeaima@gmail.com](mailto:jaqeaima@gmail.com)
 
 # Formación Académica
 
@@ -10,12 +10,19 @@ E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 
 **2020**, Maestría en Historia (UASB-Ecuador).
 
-**2017**, Dirección de Montaje Audiovisual (ENERC-Argentina).
-
 **2018**, Licenciatura en Sociología (UBA-Argentina).
 
 # Experiencia Académica
 
+**2023**, Investigadora del Colegio de América Sede Latinoamericana. Proyecto *Historia y Patrimonio*.
+
+**2022-2023**, Docente invitada en los programas de maestría *Archivistica y Gestión Documental* y *Museología y Patrimonio* de la Universidad Andina Simón Bolívar - Ecuador.
+
+**2020-2021-2023**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga) / Radio de la Casa de las Culturas del Ecuador (Cultura FM 100.9).
+
+**Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)**
+
+![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 **2021**, Coordinadora Seminario Virtual *Patrimonio Cultural y Memoria* (Diócesis de Latacunga – Radio Latacunga – Universidad Andina Simón Bolívar -Ecuador).
 
 ![seminario-virtual](/img/seminario-virtual.jpg)
@@ -29,12 +36,6 @@ E-mail: [jaqelin_18@hotmail.com](mailto:jaqelin_18@hotmail.com)
 **2021**, Miembro del proyecto de lecto-cultura *BiblioMashca – Lata Ciudad Lectora*. Apoyo audiovisual (Latacunga).
 
 ![img](/img/proyecto-lecto-cultura.jpg)
-
-**2020-2021**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga).
-
-**Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)**
-
-![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 
 **2018-2020**, Realizadora y capacitadora audiovisual en TV MICC (canal 47, Canal del Movimiento Indígena y Campesino de Cotopaxi, Latacunga - Ecuador).
 
@@ -68,15 +69,21 @@ Mini documental producido en apoyo al trabajo del colectivo Jóvenes de Latacung
 
 # Publicaciones
 
-Reseña. *[50 años de Radio Nacional Huanuni, junto a las luchas de los trabajadores mineros](http://hdl.handle.net/10469/16244)*, de Magdalena Cajías de la Vega. La Paz: Facultad de Humanidades y Ciencias de la Educación – Universidad Mayor de San Andrés, 2010. 99 págs. Ecuador Debate.
+Aimacaña D., Jacqueline; Cabrera S, (2023). "Cartografías del patrimonio". Universidad Andina Simón Bolívar, Diócesis de Latacunga, Corporación Editora Nacional. (En prensa).
 
-Aimacaña, Jacqueline, 2015. [“Mariátegui, una teoría crítica desde Latinoamérica”](http://cipec.nuevaradio.org/index.php?autman=S.+Jacqueline+Aimaca%C3%B1a+%5bestudiante+de+la+materia,+cursada+2015%5d&submit=Buscar). Centro de Investigaciones en Pensamiento Crítico CIPEC.
+Aimacaña D., J. (2023). Rosa Helena Rodríguez *Disputa por la tenencia de tierras ejidales en el Gran Cauca (1857-1886)*, Procesos. Revista Ecuatoriana De Historia, (56), 211–214.
 
-Aimacaña, Jacqueline, 2014. [“Globalización e imaginación cultural: Puntos de tensión en el documental Buenos Aires Rap”](http://jornadassociologia.fahce.unlp.edu.ar/viii-jornadas/viii-jornadas-2014/PONmesa34Aimacana.pdf).
+Aimacaña, Jacqueline, (2019). Magdalena Cajías de la Vega *[50 años de Radio Nacional Huanuni, junto a las luchas de los trabajadores mineros](http://hdl.handle.net/10469/16244)*, Ecuador Debate. Centro Andino de Educación Popular, 194-197.
 
-Aimacaña, Jacqueline; Cichini Iván, 2014. [“La construcción de sentido como estrategia política. Jóvenes, disputa cultural y revolución bolivariana”](http://jornadassociologia.fahce.unlp.edu.ar/viii-jornadas/viii-jornadas-2014/PONmesa27Aimacana.pdf/view?searchterm=None).
+Aimacaña, Jacqueline, (2015). [“Mariátegui, una teoría crítica desde Latinoamérica”](http://cipec.nuevaradio.org/index.php?autman=S.+Jacqueline+Aimaca%C3%B1a+%5bestudiante+de+la+materia,+cursada+2015%5d&submit=Buscar). Centro de Investigaciones en Pensamiento Crítico CIPEC.
+
+Aimacaña, Jacqueline, (2014). [“Globalización e imaginación cultural: Puntos de tensión en el documental Buenos Aires Rap”](http://jornadassociologia.fahce.unlp.edu.ar/viii-jornadas/viii-jornadas-2014/PONmesa34Aimacana.pdf).
+
+Aimacaña, Jacqueline; Cichini Iván, (2014). [“La construcción de sentido como estrategia política. Jóvenes, disputa cultural y revolución bolivariana”](http://jornadassociologia.fahce.unlp.edu.ar/viii-jornadas/viii-jornadas-2014/PONmesa27Aimacana.pdf/view?searchterm=None).
 
 # Consultorías, auxiliaturas y redacciones
+
+**2023**, Asistencia de investigación en archivos históricos y hemerotecas (Proyecto *El despegue cruceño*. La Paz – Bolivia).
 
 **2017**, Administradora de datos cualitativos. Entrevistas, desgravación, análisis (La Casona de los Jóvenes, Organización no Gubernamental. Santiago – Chile).
 
