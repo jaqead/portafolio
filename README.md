@@ -1,4 +1,4 @@
-# Silvia Jacqueline Aimacaña Delgado
+# Sylvia Jacqueline Aimacaña Delgado
 
 Ecuatoriana. Socióloga por la Universidad de Buenos Aires y Máster en Historia y Sociología por la Universidad Andina Simón Bolívar y FLACSO Ecuador. Investigadora y docente. Mis temas de interés son radio, movimientos sociales, neoliberalismo e historia social contemporánea de América Latina. Comunicadora social por afición. Produzco el programa Sonidos Rupestres emitido por Cultura FM 100.9, la Radio de la Casa de las Culturas del Ecuador (Quito).
 
