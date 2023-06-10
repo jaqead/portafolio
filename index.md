@@ -6,7 +6,7 @@ E-mail: [jaqeaima@gmail.com](mailto:jaqeaima@gmail.com)
 
 # Formación Académica
 
-**2022**, Maestría en Sociología (FLACSO, Ecuador).
+**2022**, Maestría en Sociología (FLACSO-Ecuador).
 
 **2020**, Maestría en Historia (UASB-Ecuador).
 
@@ -18,11 +18,6 @@ E-mail: [jaqeaima@gmail.com](mailto:jaqeaima@gmail.com)
 
 **2022-2023**, Docente invitada en los programas de maestría *Archivistica y Gestión Documental* y *Museología y Patrimonio* de la Universidad Andina Simón Bolívar - Ecuador.
 
-**2020-2021-2023**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga) / Radio de la Casa de las Culturas del Ecuador (Cultura FM 100.9).
-
-**Programa Especial: [Rodrigo Gonzáles](https://archive.org/details/programa-especial-rockdrigo-el-profeta-del-nopal)**
-
-![sonidos-rupestres](/img/sonidos-rupestres.jpg)
 **2021**, Coordinadora Seminario Virtual *Patrimonio Cultural y Memoria* (Diócesis de Latacunga – Radio Latacunga – Universidad Andina Simón Bolívar -Ecuador).
 
 ![seminario-virtual](/img/seminario-virtual.jpg)
@@ -32,6 +27,10 @@ E-mail: [jaqeaima@gmail.com](mailto:jaqeaima@gmail.com)
 ![exposicion-radio-latacunga](/img/exposicion-radio-latacunga.jpg)
 
 # Gestión Cultural
+
+**2020-2023**, Productora y realizadora de programa radial: *Sonidos Rupestres. Música de América Latina* (Radio Municipal Latacunga) / Radio de la Casa de las Culturas del Ecuador (Cultura FM 100.9).
+
+![sonidos-rupestres](/img/liscano.jpg)
 
 **2021**, Miembro del proyecto de lecto-cultura *BiblioMashca – Lata Ciudad Lectora*. Apoyo audiovisual (Latacunga).
 
